@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I'm a mixed reality designer, developer and enthusiast with a computer science background. 
+
+At Fraunhofer FIT, I've worked on many projects that have brought AR and VR to various fields, including healthcare, culture and marketing. Right now I am working on the IndustrieStadtpark project (https://www.5gtroisdorf.de), where we are enhancing real production environments with industrial metaverse. 
+
+I mainly work with Unity, but I also have experience in other areas, especially Node.js and iOS.
