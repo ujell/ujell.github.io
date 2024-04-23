@@ -10,4 +10,4 @@ At Fraunhofer FIT, I've worked on many projects that have brought AR and VR to v
 
 I mainly work with Unity, but I also have experience in other areas, especially Node.js and iOS.
 
-You can also access to my CV from [here](https://ujell.github.io/assets/doc/CV-EN.pdf), or reach me from [LinkedIn](https://www.linkedin.com/in/yuceluzun/). 
+You can also access to my CV from [here](https://ujell.github.io/assets/doc/CV-EN.pdf), or reach me on [LinkedIn](https://www.linkedin.com/in/yuceluzun/). 
