@@ -1,5 +1,5 @@
 ---
-title: "Quick solutions for \"xcrun: error: SDK "xros" cannot be located\""
+title: Quick solutions for Vision Pro xros build error
 date: 2024-04-24 12:30:00 +0200
 categories: [Unity, VisionPro]
 tags: [Unity, VisionPro]   
