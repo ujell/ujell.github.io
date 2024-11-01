@@ -21,7 +21,7 @@ First, open your `inputactions` file and add an action. Set the type to "Button.
 
 ![Action](https://ujell.github.io/assets/img/20241101/Action.png){: width="600"}
 
-![Binding](https://ujell.github.io/assets/img/202411101/Binding.png){: width="600"}
+![Binding](https://ujell.github.io/assets/img/20241101/Binding.png){: width="600"}
 
 # Listening the Action
 Here’s a component for listening to the action:

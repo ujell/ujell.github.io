@@ -17,7 +17,7 @@ Here are some of my previous projects:
 - [SmartZSVA](https://www.fit.fraunhofer.de/en/business-areas/human-centered-engineering-and-design/HCED_Research/smartzsva.html) *(HoloLens 1, Unity)*: SmartZSVA aimed to digitalize hospital sterilization departments by providing guidelines for different processes and indoor navigation tool I developed for HoloLens 1. Here is a video showing it in action:
 [![SmartZSVA](https://img.youtube.com/vi/CJEDzPTUxPY/0.jpg)](https://www.youtube.com/watch?v=CJEDzPTUxPY "SmartZSVA")
 - [REWE Spielend Gewinnen](https://iditech.org/testmaerkte-spielend-gewinnen/) *(iOS and Android, Unity)*: As part of this project, we investigated the use of XR in marketing through a mobile app I developed with our team.
-- Multiple VR Video Player Projects (Quest Go, Unity):
+- Multiple VR Video Player Projects *(Quest Go, Unity)*:
     - [Rendez-Vous for Fabien Prioville](https://fabienprioville.com/archive/rendez-vous/)
     - DAAD, Leben in Deutschland project
     - LWK-NRW
