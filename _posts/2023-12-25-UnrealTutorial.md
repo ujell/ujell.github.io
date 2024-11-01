@@ -28,7 +28,7 @@ Alright this one is actually not a common problem, but something an Unreal begin
 
 ![Landscape](https://ujell.github.io/assets/img/20231225/landscape.png){: width="300" height="300" }
 
-After dubugging a while, I eventually figured out the error was in output log all along, I was using 4 parameter node instead of 3 while lerping the grass color. Since the material graph did not gave any warning on this, it took me a while to figure it out.
+After debugging a while, I eventually figured out the error was in output log all along, I was using 4 parameter node instead of 3 while lerping the grass color. Since the material graph did not gave any warning on this, it took me a while to figure it out.
 
 ### Character is not rotating to cursor direction
 While working on the character movement, you will enable "Orient Rotation to Movement" parameter in Character Movement. However, to make this work, you need to first select BP_Bot, then search for "Yaw" in the Details tab and disable the "Use Controller Rotation Yaw" parameter. 
