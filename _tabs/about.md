@@ -26,4 +26,4 @@ Here are some of my previous projects:
 
 - [MAKSIM](https://www.fit.fraunhofer.de/de/geschaeftsfelder/digitale-energie/maksim.html): *(TypeScript, Angular.js)* Development of an internal dashboard 
 
-While I am not doing a PhD, scientific work is part of my job in Fraunhofer FIT, and you can see my publications [here}(https://www.researchgate.net/profile/Yuecel-Uzun). You can also access to my CV from [here](https://ujell.github.io/assets/doc/CV-EN.pdf), or reach me on [LinkedIn](https://www.linkedin.com/in/yuceluzun/). 
+While I am not doing a PhD, scientific work is part of my job in Fraunhofer FIT, and you can see my publications [here](https://www.researchgate.net/profile/Yuecel-Uzun). You can also access to my CV from [here](https://ujell.github.io/assets/doc/CV-EN.pdf), or reach me on [LinkedIn](https://www.linkedin.com/in/yuceluzun/). 
