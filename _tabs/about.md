@@ -10,6 +10,8 @@ At Fraunhofer FIT, I've worked on many projects that have brought AR and VR to v
 
 Here are some of my previous projects:
 
+- [Alvisto 3D Enhance](https://www.linkedin.com/posts/yuceluzun_scannen-erkennen-qualit%C3%A4t-sichern-im-activity-7392509685884674048-fG7S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAp4X34BkVNODbrD3ITzJ3Vnbcl8TiwTXkc) *(iOS, Unity)*: An iPad prototype to bring hail damage detection over vehicles from 2D data to XR using iPad with ARKit. 
+
 - [5G IndustrieStadtpark Troisdorf project](https://www.5gtroisdorf.de) *(HoloLens2, Oculus, Unity)*: An industrial metaverse project where I have developed a collaborative environment featuring digital twins, avatars, guideline and training features, along with external device support and an authoring tool. Here is a video explaining a bit about the overall project:
 
 {% include embed/youtube.html id='QmvphzI1kvQ' %}
